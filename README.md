@@ -1,4 +1,5 @@
 # GPT_Neo Sentiment Analysis and Text Generation App
+![Imagen inicio](/images/positivo.jpeg)
 
 ## Descripción
 
@@ -9,6 +10,9 @@
 - **Análisis de Sentimiento**: Evalúa el sentimiento de los comentarios de los usuarios utilizando un modelo de GPT-2.0.
 - **Generación de Texto**: Genera texto basado en el sentimiento del comentario proporcionado.
 - **Interfaz Intuitiva**: Fácil de usar y con una interfaz clara para la interacción del usuario.
+
+![Imagen inicio](/images/negativo_negativo.jpeg)
+
 
 ## Instalación
 
@@ -54,3 +58,5 @@ gpt_neo_app/
 ├── code_tool.ipynb         # Lista de dependencias necesarias
 └── README.md                # Este archivo
 ```
+
+![Imagen inicio](/images/negativo.jpeg)
